@@ -10,7 +10,7 @@ const footerLogo = document.createElement('div')
         footerLogo.classList.add('footer-logo')
         footerLogo.innerHTML = `
             <img alt='' src='${logoUrl}' title='${blogName}'/>
-            <p class='blog-desc'>"${blogDesc}"</p>
+            <p class='blog-desc'>${blogDesc}</p>
         `
 
 
@@ -57,10 +57,11 @@ const footerLinks = {
 
 // Load Footer Links Object
 for (const groupName in footerLinks) {
+    const linkWrapper = document.createElement('div');
     const linkContainer = document.createElement('div'); 
     const title = document.createElement('h4')
     title.innerText = groupName; 
-    linkContainer.append(title);
+    linkWrapper.append(title);
     
     for (const link in footerLinks[groupName]) {
         const isObject = typeof footerLinks[groupName][link] == 'object'; 
@@ -82,7 +83,8 @@ for (const groupName in footerLinks) {
         linkContainer.append(a);
     }
 
-    footerLinksContainer.append(linkContainer);
+    linkWrapper.append(linkContainer);
+    footerLinksContainer.append(linkWrapper);
 }
 
 footerContent.append(footerLogo, footerLinksContainer); 
