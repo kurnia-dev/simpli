@@ -1,0 +1,961 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+	xmlns:blogger='http://schemas.google.com/blogger/2008'
+	xmlns:georss='http://www.georss.org/georss'
+	xmlns:gd="http://schemas.google.com/g/2005"
+	xmlns:thr='http://purl.org/syndication/thread/1.0'>
+	<id>tag:blogger.com,1999:blog-6624494226418167986</id>
+	<updated>2023-07-08T17:55:01.871+07:00</updated>
+	<category term="Komputer"/>
+	<category term="Pemrograman"/>
+	<category term="How?"/>
+	<category term="Program CPP"/>
+	<category term="Kamus Istilah"/>
+	<category term="Perangkat Keras"/>
+	<category term="Tutorial Blog"/>
+	<category term="Guest Post"/>
+	<category term="Internet"/>
+	<category term="Jaringan"/>
+	<category term="Tips"/>
+	<category term="Tutorial"/>
+	<category term="Whatsapp"/>
+	<category term="AdSense"/>
+	<category term="Algoritma dan Flowchart"/>
+	<category term="Flashdisk"/>
+	<category term="Gadget"/>
+	<category term="Instagram"/>
+	<category term="Linux"/>
+	<category term="Medsos"/>
+	<category term="Sistem"/>
+	<title type='text'>One Tekno - Blog Komputer Teknologi</title>
+	<subtitle type='html'>Blog One Tekno menyediakan artikel-artikel tentang komputer, jaringan, gadget dan teknologi yang berkualitas dan bermanfaat untuk para pembacanya. </subtitle>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.onetekno.my.id/feeds/posts/default'/>
+	<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default'/>
+	<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com/'/>
+	<link rel='next' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default?start-index=26&amp;max-results=25'/>
+	<author>
+		<name>Kurnia</name>
+		<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+		<email>noreply@blogger.com</email>
+		<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+	</author>
+	<generator version='7.00' uri='http://www.blogger.com'>Blogger</generator>
+	<openSearch:totalResults>43</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<entry>
+		<id>tag:blogger.com,1999:blog-6624494226418167986.post-6057387822158053051</id>
+		<published>2023-03-10T15:58:00.007+07:00</published>
+		<updated>2023-06-28T19:30:11.311+07:00</updated>
+		<category scheme="http://www.blogger.com/atom/ns#" term="Algoritma dan Flowchart"/>
+		<title type='text'>Algoritma dan Flowchart Membuat Kopi</title>
+		<summary type="text">
+  Artikel ini berisi Algoritma membuat kopi dan juga Flowchart membuat kopi.
+  Sebagai seorang programmer, Kopi sudah menjadi bagian dari hidup. Menjadi
+  teman yang menemani setiap baris kode yang tertuang dalam program. 
+
+
+
+Algoritma Membuat Kopi
+Berikut adalah algoritma untuk membuat kopi:
+
+
+  
+    Siapkan bahan dan peralatan:
+    
+      Kopi bubuk atau biji kopi
+      Air bersih
+      Filter</summary>
+		<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6057387822158053051'/>
+		<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6057387822158053051'/>
+		<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2023/03/algoritma-dan-flowchart-membuat-kopi.html' title='Algoritma dan Flowchart Membuat Kopi'/>
+		<author>
+			<name>Kurnia</name>
+			<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+			<email>noreply@blogger.com</email>
+			<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+		</author>
+		<media:thumbnail
+			xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj28qf_wrmjdVsNl_gERRksVXKUyMBsWo14QeP1_vVR6cfzbA86Y4jocT7QhmoG0hrd84RCvVDvtdevWWprqOR96T93kKc6-0xB8seiQgnIe9N-bH7a4lF25rxFMgHdg1S1fhpvIXWrvsIakXquptf3iAHMjRl4np3n5P6n6sSNJkQQKdHBB-_kMX-I/s72-c-rw/Flowchart-membuat-kopi-dengan-takaran-sendiri.webp" height="72" width="72"/>
+			<georss:featurename>Indonesia</georss:featurename>
+			<georss:point>-0.789275 113.921327</georss:point>
+			<georss:box>-33.924337724136947 78.765077 32.34578772413694 149.07757700000002</georss:box>
+		</entry>
+		<entry>
+			<id>tag:blogger.com,1999:blog-6624494226418167986.post-514372617277958565</id>
+			<published>2022-12-29T06:47:00.005+07:00</published>
+			<updated>2023-06-28T08:01:32.628+07:00</updated>
+			<category scheme="http://www.blogger.com/atom/ns#" term="Guest Post"/>
+			<title type='text'>Wow, Penjaga Rumah Cerdas ini No Blind Spot 360 Derajat!</title>
+			<summary type="text">
+
+
+
+
+  Anda tentu sering mendengar istilah ‘rumahku adalah istanaku’ bukan? Yap,
+  istilah tersebut merupakan salah satu istilah yang tepat untuk menggambarkan
+  bagaimana sebuah rumah menjadi tempat yang paling nyaman bagi pemiliknya. Anda
+  pasti setuju bahwa setiap orang pasti ingin yang terbaik untuk rumahnya dan
+  selalu merawat dan menjaga rumah sedemikian mungkin agar keluarga kita tetap
+</summary>
+			<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/514372617277958565'/>
+			<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/514372617277958565'/>
+			<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/12/penjaga-rumah-cerdas-Edimax-WatchDog360-IC-5350GAI.html' title='Wow, Penjaga Rumah Cerdas ini No Blind Spot 360 Derajat!'/>
+			<author>
+				<name>Kurnia</name>
+				<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+				<email>noreply@blogger.com</email>
+				<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+			</author>
+			<media:thumbnail
+				xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLKuDuY7eQb3WOgaUTBrkNsJbBWYCfg8ebedqnUDWJSsPKyh_zMQsuVISIrdafm0fwzBnWSgy1RSg2BgsQRK1_Mj0y3cmPgoprN_ntMnGzBH8s9_IksIilxVFf9Kb93Q617pPP3SDKt06rMWdPxbbQkDKFJvyQgDl0mjl8akYPSIZ6KcBl9CdEMy-CgQ/s72-c-rw/Foto%20Edimax%20(1).jpg" height="72" width="72"/>
+				<georss:featurename>Indonesia</georss:featurename>
+				<georss:point>-0.789275 113.921327</georss:point>
+				<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+			</entry>
+			<entry>
+				<id>tag:blogger.com,1999:blog-6624494226418167986.post-6079992762997973250</id>
+				<published>2022-10-29T08:30:00.052+07:00</published>
+				<updated>2023-06-28T13:43:14.990+07:00</updated>
+				<category scheme="http://www.blogger.com/atom/ns#" term="Tutorial Blog"/>
+				<title type='text'>Panduan Disavow Backlink SPAM untuk Pulihkan Website/Blog</title>
+				<summary type="text">
+  
+
+Halo Sobat One! 
+
+  Oktober ini Google meluncurkan update Algoritmanya, yaitu
+  Algoritma SPAM. Algoritma ini ditujukan untuk memerangi spam yang
+  berlaku di seluruh dunia dan dalam semua bahasa untuk mempertahankan kualitas
+  hasil pencariannya. 
+
+
+  Algoritma Spam diluncurkan pada 19 Oktober 2022 yang kemungkinan akan selesai
+  dalam beberapa hari. Anda bisa menemukan informasinya di </summary>
+				<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6079992762997973250'/>
+				<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6079992762997973250'/>
+				<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/10/disavow-backlink-spam.html' title='Panduan Disavow Backlink SPAM untuk Pulihkan Website/Blog'/>
+				<author>
+					<name>Kurnia</name>
+					<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+					<email>noreply@blogger.com</email>
+					<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+				</author>
+				<media:thumbnail
+					xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGAyZpRwwQZ80QHz9qGxbv5reDPmLQSgKStZmGPSPmKqt383pTmhfPb1T2Igv9UHNmNJ_PlX2QV3uY9Yh-al2hR_0psiLtH0r1R-acB7mvMgDYrwi9ihCss_fkYbUSoCbyGzpbuhKnqknYKBt_jZAPF1MQU-fLtOz1WHPCwqAvhtR-T_TBvunmN5_rw/s72-c-rw/Update%20List%20Algoritma.png.jpg" height="72" width="72"/>
+					<georss:featurename>Indonesia</georss:featurename>
+					<georss:point>-0.789275 113.921327</georss:point>
+					<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+				</entry>
+				<entry>
+					<id>tag:blogger.com,1999:blog-6624494226418167986.post-4979368411256542645</id>
+					<published>2022-10-25T10:25:00.011+07:00</published>
+					<updated>2023-06-28T08:04:31.232+07:00</updated>
+					<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+					<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+					<title type='text'>Contoh Program C++ Biodata Mahasiswa [2 Versi]</title>
+					<summary type="text">
+  
+
+
+
+Buat temen-temen Mahasiswa IT yang lagi nyari bahan tugas, artikel ini akan
+  menyajikan Kode Program C++ Biodata Mahasiswa
+  sebagai referensi tugas kalian. 
+
+Pendahuluan 
+
+  Pada seri
+  Contoh Program C++
+  dari Blog One Tekno ini, saya akan membagikan Program-Program C++ sederhana
+  yang bisa teman-teman jadikan sebagai referensi belajar. 
+
+
+
+  (adsbygoogle = window.adsbygoogle || []).</summary>
+					<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4979368411256542645'/>
+					<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4979368411256542645'/>
+					<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/06/program-cpp-biodata-mahasiswa.html' title='Contoh Program C++ Biodata Mahasiswa [2 Versi]'/>
+					<author>
+						<name>Kurnia</name>
+						<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+						<email>noreply@blogger.com</email>
+						<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+					</author>
+					<media:thumbnail
+						xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYKskZlXXPbMGw672UWMvxRSjKMQO8z_ZsLimQ_Kz3EgtyPYYxFdfF_rjprIvk5MEOaHgiGGzjOZGWaf36U_SCqXurD77kYYRA5qTN8SevOOxbSOzaPZzAvs8whAbfOWMkc3cnwhp42KFSgA2d7ehMEuUN2FUleFgypD8Izb-sikpWD7bmXTEP650A0g/s72-c-rw/Program%20C++%20Biodata%20Mahasiswa%20%281%29.webp" height="72" width="72"/>
+					</entry>
+					<entry>
+						<id>tag:blogger.com,1999:blog-6624494226418167986.post-4424083389885669760</id>
+						<published>2022-10-24T21:57:00.003+07:00</published>
+						<updated>2023-06-28T08:06:11.157+07:00</updated>
+						<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+						<title type='text'>Cara Memanggil CSS di HTML dan Urutan Prioritas</title>
+						<summary type="text">
+
+
+
+Untuk memanggil CSS di HTML, bisa kita lakukan dengan 3 cara. 
+
+
+  Eksternal CSS
+  Internal CSS
+  Inline CSS
+
+
+  Pada artikel ini, kita akan belajar ketiga cara tersebut di file HTML yang
+  kita buat.
+
+
+
+1. Eksternal CSS
+
+  Eksternal CSS adalah teknik menuliskan kode CSS di file terpisah yaitu
+  dalam file ber-ekstensi .css. Kemudian kita panggil atau import file CSS ke kode HTML.  
+
+
+
+
+
+
+
+  </summary>
+						<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4424083389885669760'/>
+						<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4424083389885669760'/>
+						<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/cara-memanggil-css-di-html.html' title='Cara Memanggil CSS di HTML dan Urutan Prioritas'/>
+						<author>
+							<name>Kurnia</name>
+							<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+							<email>noreply@blogger.com</email>
+							<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+						</author>
+						<media:thumbnail
+							xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjIgoKdQ2tMd4NypCE_vpu3OPtd0wzQje9G5SdZIYqow3_IdoetMhpduY_O38tDXoNUZ_R1yhUOETzWtpBfWuvwNdqGgJ7oH7DpF_p-rerHIlviQmR6HTpM0KbxE6QAnoamCBugIvybXRWAvBtWiI6GbBCA88yrXhgkoZ-XVNd1p4cgAwrURVW88mYw/s72-c-rw/Cara-Memanggil-CSS-di-HTML.jpg" height="72" width="72"/>
+						</entry>
+						<entry>
+							<id>tag:blogger.com,1999:blog-6624494226418167986.post-4621452192844322909</id>
+							<published>2022-10-20T06:49:00.018+07:00</published>
+							<updated>2023-06-28T08:07:18.671+07:00</updated>
+							<category scheme="http://www.blogger.com/atom/ns#" term="Komputer"/>
+							<category scheme="http://www.blogger.com/atom/ns#" term="Tutorial"/>
+							<title type='text'>Cara Mengatasi &quot;Destination Path too Long&quot; saat Ekstrak File</title>
+							<summary type="text">
+
+
+
+
+  Error 0x80010135 &quot;Destination Path too Long&quot; adalah error yang
+  disebabkan oleh terlalu panjangnya Destination Path* atau jalur menuju
+  file. Saat Anda hendak mengekstrak atau menyalin file ke suatu folder/path
+  Anda mungkin akan menemukan masalah ini. 
+
+
+
+*Path: C:\Users\Kurnia\Folder\Folder2\ 
+
+  
+     Path adalah jalur atau folder mana saja yang harus dilewati/dibuka
+    untuk menuju</summary>
+							<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4621452192844322909'/>
+							<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4621452192844322909'/>
+							<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/10/error-0x80010135-destination-path-too-long.html' title='Cara Mengatasi &quot;Destination Path too Long&quot; saat Ekstrak File'/>
+							<author>
+								<name>Kurnia</name>
+								<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+								<email>noreply@blogger.com</email>
+								<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+							</author>
+							<media:thumbnail
+								xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7pnYQDN-Zc5keqQLJoypF3bblluFxwm9G6PJ2caXH552zlNpSqSf2SCjKWWQmIJqScfr3LtYuGh9Dp7jAT9Zc3W7Q-9Fkmaavldr5Rp8nYMOqo6uJFdpUAoZlJ_zv2i0lfgIiftlYXw7e0Nbxu6mHS7-qpg_SbRYTNik6zlZI1F4YsaOaSIS_r4G0w/s72-c-rw/Destination%20Path%20too%20Long.webp" height="72" width="72"/>
+								<georss:featurename>Indonesia</georss:featurename>
+								<georss:point>-0.789275 113.921327</georss:point>
+								<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+							</entry>
+							<entry>
+								<id>tag:blogger.com,1999:blog-6624494226418167986.post-1122395461614901263</id>
+								<published>2022-09-27T20:08:00.021+07:00</published>
+								<updated>2022-11-07T21:22:22.427+07:00</updated>
+								<category scheme="http://www.blogger.com/atom/ns#" term="Guest Post"/>
+								<title type='text'>Taiwan Excellence Perkenalkan Kulkas Hemat Daya</title>
+								<summary type="text">
+  
+
+
+
+  Jakarta - Jaman semakin modern, teknologi semakin berkembang. Semua
+  pihak berlomba-lomba memunculkan inovasi baru dengan harapan mampu bersaing di
+  pasaran. Katakanlah teknologi komputer, otomotif, bahkan alat rumah tangga pun
+  bermunculan inovasi baru. Contohnya adalah kulkas dengan inovasi
+  teknologi kulkas inverter.  
+
+
+  Inverter adalah sebuah teknologi yang terintegrasi, yaitu </summary>
+								<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1122395461614901263'/>
+								<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1122395461614901263'/>
+								<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/taiwan-excellence-perkenalkan-kulkas-hemat-daya.html' title='Taiwan Excellence Perkenalkan Kulkas Hemat Daya'/>
+								<author>
+									<name>Kurnia</name>
+									<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+									<email>noreply@blogger.com</email>
+									<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+								</author>
+								<media:thumbnail
+									xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglF_N3Bs2Ixz6cbmOeEqVwBeGTN2VzYFnAL4ZqP02p3ZE30NCB4KuG_FVWxW6Q2XNIx924xOXAsQ-moET0YDZtBY1CESz-Fsh0MLAUH6Wv7ixJiqrJX6-MBxc7z8cDedgEL77pwHmUKhyjPPydc7e_K0aKBo-VGyZgNbw2IlBLb4mBuDrqD-Qyx5VJFg/s72-c/Foto%201.jpg" height="72" width="72"/>
+								</entry>
+								<entry>
+									<id>tag:blogger.com,1999:blog-6624494226418167986.post-4923687341753690946</id>
+									<published>2022-09-20T14:23:00.032+07:00</published>
+									<updated>2022-10-13T10:30:23.486+07:00</updated>
+									<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+									<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+									<title type='text'>Contoh Program C++ Nilai Siswa (Rata-Rata, Nilai Akhir, Grade)</title>
+									<summary type="text">
+
+Sekarang Anda berada dalam seri Contoh Program C++. Pada artikel ini One Tekno
+  akan memberikan Contoh Program C++ untuk Menampilkan Nilai Siswa yang berupa
+  Rata-Rata, Nilai Akhir, dan Grade Nilai. 
+
+
+  Untuk menampilkan grade nilai, sudah ada artikelnya tersendiri. Anda bisa
+  mengunjungi :
+  Program C++ Mencari Grade Nilai Menggunakan if/else. 
+
+
+
+
+     (adsbygoogle = window.adsbygoogle ||</summary>
+									<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4923687341753690946'/>
+									<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4923687341753690946'/>
+									<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/contoh-program-cpp-nilai-siswa.html' title='Contoh Program C++ Nilai Siswa (Rata-Rata, Nilai Akhir, Grade)'/>
+									<author>
+										<name>Kurnia</name>
+										<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+										<email>noreply@blogger.com</email>
+										<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+									</author>
+									<media:thumbnail
+										xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0lZEA392imhLE12e9Wg79GNHpg65D1PHRP6bEFFRCtMmqt67VPN2wN_QsLsvHSbVeMJ3zhjcvCzhIDS_0xA1DRWOHppjpGeSTaGQQBeNhEyAkQY5hGpl6dyKZRXQ7RMy9KAJxhDwFJTpcm8pYHDBzAWGDvkg4zcnWhF5MpkReYIdVrc9HXEbkdRvicg/s72-c/Contoh%20Program%20C++%20Nilai%20Siswa.jpg" height="72" width="72"/>
+									</entry>
+									<entry>
+										<id>tag:blogger.com,1999:blog-6624494226418167986.post-1535770491330710494</id>
+										<published>2022-09-14T22:05:00.008+07:00</published>
+										<updated>2022-11-10T22:41:01.884+07:00</updated>
+										<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+										<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+										<title type='text'>Program C++ Mencari Grade Nilai Menggunakan if/else</title>
+										<summary type="text">
+
+
+
+
+  Halo Sobat One! Saat ini kamu berada di Seri Contoh Program C++ One Tekno.
+  Pada artikel ini saya akan membagikan sebuah Program untuk Mencari Grade Nilai
+  menggunakan if/else di C++. 
+
+
+Pendahuluan
+Program ini memiliki ketentuan sebagai berikut. 
+
+  85-100 = A
+  75-84 = B
+  65-74 = C
+  55-64 = D
+  0 - 54 = E
+
+
+
+Program C++ Mencari Grade Nilai 
+Berikut programnya. Penjelasan ada di dalam</summary>
+										<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1535770491330710494'/>
+										<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1535770491330710494'/>
+										<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/program-cpp-mencari-grade-nilai.html' title='Program C++ Mencari Grade Nilai Menggunakan if/else'/>
+										<author>
+											<name>Kurnia</name>
+											<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+											<email>noreply@blogger.com</email>
+											<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+										</author>
+										<media:thumbnail
+											xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpVgS_Zi45b39ChQPw6VY5Kn9uKi9v7uUctPf90dhS1PBckI6dgu-9NVmwBSU-Ecoky7mPtCTM7XfsTLYVW4kx4_tcpUiKCj5V_A_TlrqPQcjOXYwqwq1I3PdMBqWL8f7tKxz9jRcLQxSGO2VOdfWjmgY42ofd0cYEx6ov1BEmkoW4N66PB7JAR82y2Q/s72-c/Program%20C++%20Mencari%20Grade%20Nilai%20Menggunakan%20ifelse%20(1).webp" height="72" width="72"/>
+											<georss:featurename>Indonesia</georss:featurename>
+											<georss:point>-0.789275 113.921327</georss:point>
+											<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+										</entry>
+										<entry>
+											<id>tag:blogger.com,1999:blog-6624494226418167986.post-6575601788085535112</id>
+											<published>2022-09-05T21:05:00.025+07:00</published>
+											<updated>2022-10-13T11:21:59.894+07:00</updated>
+											<category scheme="http://www.blogger.com/atom/ns#" term="Tutorial"/>
+											<title type='text'>Cara Membuat TTS di Microsoft Word [Penjelasan Gambar]</title>
+											<summary type="text">
+  
+
+
+  Ikuti Tutorial Cara Membuat TTS di Microsoft Word ini untuk membuat
+  teka-teki silangmu sendiri dengan mudah. 
+
+
+  Saya berikan panduan dengan penjelasan gambar dan video singkat untuk mempermudah kamu
+  dalam mengikuti tutorialnya.
+
+
+
+
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Langkah Membuat TTS di Microsoft Word
+
+  Berikut langkah-langkah Cara Membuat TTS di </summary>
+											<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6575601788085535112'/>
+											<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6575601788085535112'/>
+											<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/cara-membuat-tts-di-microsoft-word.html' title='Cara Membuat TTS di Microsoft Word [Penjelasan Gambar]'/>
+											<author>
+												<name>Kurnia</name>
+												<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+												<email>noreply@blogger.com</email>
+												<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+											</author>
+											<media:thumbnail
+												xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4HdeMoiZP6vrkIFUTJMuYpCoO3cROF5HJ1oceDeZx0kcwryYXH8DWU-ORcIWnCB80HabP0QnAyb4B3khV017fL3MA4eWAdmPa2srJucChhALZE0qe86W0Hp5l8t7LzIgb3mTrpGyFPA-4K_9WCsARoTrPAMAiqcuRdYF5sF9LoJUjCuyVI3iFGd0LRQ/s72-c/Cara%20Membuat%20TTS%20di%20Microsoft%20Word.jpg" height="72" width="72"/>
+												<georss:featurename>Indonesia</georss:featurename>
+												<georss:point>-0.789275 113.921327</georss:point>
+												<georss:box>-33.924337724136947 78.765077 32.34578772413694 149.07757700000002</georss:box>
+											</entry>
+											<entry>
+												<id>tag:blogger.com,1999:blog-6624494226418167986.post-3479853711330526022</id>
+												<published>2022-09-04T21:24:00.146+07:00</published>
+												<updated>2022-11-14T13:43:55.099+07:00</updated>
+												<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+												<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+												<title type='text'>Contoh Program C++ Menampilkan Nama [Input Getline]</title>
+												<summary type="text">
+
+  Kamu sekarang berada di seri Contoh Program C++ One Tekno. Artikel ini akan menyajikan Contoh Program C++ Menampilkan Nama dengan input Getline untuk menampilkan nama lengkap.
+
+Pendahuluan
+
+  Program ini sangat sederhana, hanya untuk melatih pemahaman teman-teman
+  tentang input dan output Bahasa C++. 
+
+
+  Program Menampilkan Nama dalam Bahasa C++  ini akan mengambil input nama
+  dan </summary>
+												<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/3479853711330526022'/>
+												<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/3479853711330526022'/>
+												<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/contoh-program-cpp-menampilkan-nama.html' title='Contoh Program C++ Menampilkan Nama [Input Getline]'/>
+												<author>
+													<name>Kurnia</name>
+													<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+													<email>noreply@blogger.com</email>
+													<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+												</author>
+												<media:thumbnail
+													xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyDn7W3nm33tegls0Ob7_VQW9HVr3dVlFJuy-dZDvcnxPdhDLGthKnqMQYpcNOgRYnKiA5QXqVqa8QkcgpcWk6VD4Clsp0K_k7aP6gChDUGXC4fI7dR3V0-HV2Duq8F-RaLu2gYOS3Vr4wed1YnX99piGj83ZEDgrSO68Nz07ODRE90FXuHV6NWB_N1A/s72-c/Program-CPP-Menampilakan-nama.webp" height="72" width="72"/>
+													<georss:featurename>Indonesia</georss:featurename>
+													<georss:point>-0.789275 113.921327</georss:point>
+													<georss:box>-33.924337724136947 78.765077 32.34578772413694 149.07757700000002</georss:box>
+												</entry>
+												<entry>
+													<id>tag:blogger.com,1999:blog-6624494226418167986.post-8509454082630177483</id>
+													<published>2022-08-30T22:38:00.042+07:00</published>
+													<updated>2022-11-14T13:51:44.331+07:00</updated>
+													<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+													<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+													<title type='text'>Program C++ Menghitung Luas Persegi Panjang (2 Metode)</title>
+													<summary type="text">
+  
+
+
+
+
+  Selamat datang di Seri Contoh Program C++ One Tekno. Pada artikel ini,
+  saya akan membagikan  sebuah Program C++ untuk Menghitung Luas Persegi Panjang disertai
+  Penjelasannya.
+
+
+Pendahuluan
+
+  Untuk membuat Program C++ sederhana ini, diperlukan pemahaman dasar input dan
+  output C++ dan juga rumus menghitung luas persegi panjang.
+
+Rumus =&gt;   L = p x l
+
+Ya. Itu lah rumusnya. Sangat </summary>
+													<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/8509454082630177483'/>
+													<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/8509454082630177483'/>
+													<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/08/program-cpp-menghitung-luas-persegi-panjang.html' title='Program C++ Menghitung Luas Persegi Panjang (2 Metode)'/>
+													<author>
+														<name>Kurnia</name>
+														<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+														<email>noreply@blogger.com</email>
+														<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+													</author>
+													<media:thumbnail
+														xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGjIv45u3oCrHG8FMJpw24ysrrO_krDfhF2a2CRn5mrUj1B84NA26ItwrSUkRyx6o2ZI9SZX3wOVMYvX8LdVRmgABq7PuXC3oq-6KEQE8yZyAybUyyvRqMyH4xIFsOCBB-mPSKclzGDQvKOeQPTOW8srVYxlKVZqJcx3i6jAePh8qJwW-0ZbVVET8cw/s72-c/Program%20CPP%20Menghitung-Luas-Persegi-Panjang%20%281%29.webp" height="72" width="72"/>
+													</entry>
+													<entry>
+														<id>tag:blogger.com,1999:blog-6624494226418167986.post-8324429044031218580</id>
+														<published>2022-08-29T12:16:00.037+07:00</published>
+														<updated>2022-11-16T10:48:25.475+07:00</updated>
+														<category scheme="http://www.blogger.com/atom/ns#" term="Flashdisk"/>
+														<title type='text'>Download File System PS2 Flashdisk / Hardisk External</title>
+														<summary type="text">Download System Flashdisk PS2 - Kalian punya PS2 matrix dan ingin mendapatkan
+file System PS2 Flashdisk/HDD eksternal?
+
+Untungnya kalian bisa File System PS2 Flashdisk dengan mudah dan Gratis di artikel ini. 
+
+
+Dapatkan System PS2  
+
+/* CSS */
+.button-30 {
+  align-items: center;
+  appearance: none;
+  background-color: #FCFCFD;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66</summary>
+														<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/8324429044031218580'/>
+														<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/8324429044031218580'/>
+														<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/08/file-system-ps2-flashdisk.html' title='Download File System PS2 Flashdisk / Hardisk External'/>
+														<author>
+															<name>Kurnia</name>
+															<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+															<email>noreply@blogger.com</email>
+															<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+														</author>
+													</entry>
+													<entry>
+														<id>tag:blogger.com,1999:blog-6624494226418167986.post-6251033769371787041</id>
+														<published>2022-08-19T21:05:00.062+07:00</published>
+														<updated>2022-11-07T15:55:54.611+07:00</updated>
+														<category scheme="http://www.blogger.com/atom/ns#" term="Komputer"/>
+														<category scheme="http://www.blogger.com/atom/ns#" term="Perangkat Keras"/>
+														<title type='text'>Kenali Jenis SSD! Berbeda Ukuran, Antarmuka, dan Kecepatan</title>
+														<summary type="text">
+  
+
+
+Dengan membaca artikel ini Anda akan mengetahui Jenis-Jenis SSD berdasarkan ukuran, antarmuka dan kecepatannya. Sekarang jaman semakin maju. Teknologi pun semakin berkembang. Teknologi
+  baru muncul, yang lama tergantikan.
+
+
+  SSD adalah wujud perkembangan teknologi. Muncul dan menggantikan hardisk yang
+  sudah terbelakang. Kecepatan eksekusi data yang singkat membuat SSD semakin
+  banyak </summary>
+														<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6251033769371787041'/>
+														<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6251033769371787041'/>
+														<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/08/jenis-ssd.html' title='Kenali Jenis SSD! Berbeda Ukuran, Antarmuka, dan Kecepatan'/>
+														<author>
+															<name>Kurnia</name>
+															<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+															<email>noreply@blogger.com</email>
+															<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+														</author>
+														<media:thumbnail
+															xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZyB3q7u1rc-BAq9cw2crift_Sz42zRuvBBBDcU2-xahWEXf025OerUAiomYP3qDCuqFZuuo8oJnEQztdTTN4pfRgHUqAeh9d7YsgLYV0eJyQ0JRQGVmFDQuGYTnh2X2IN_GBIQXf9whuAT_cP2v4yBCZH_gbUXqr8Xz-NyyJ6cTJk47C4Gmz-0CVdQ/s72-c/Jenis%20SSD.jpg" height="72" width="72"/>
+															<georss:featurename>Indonesia</georss:featurename>
+															<georss:point>-0.789275 113.921327</georss:point>
+															<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+														</entry>
+														<entry>
+															<id>tag:blogger.com,1999:blog-6624494226418167986.post-4513907968964990898</id>
+															<published>2022-07-04T08:51:00.104+07:00</published>
+															<updated>2022-11-03T19:01:07.526+07:00</updated>
+															<category scheme="http://www.blogger.com/atom/ns#" term="Komputer"/>
+															<title type='text'>Urutan Processor Intel : 1971 - 2022</title>
+															<summary type="text">
+  
+
+
+
+  Intel adalah perusahaan mikroprosesor raksasa yang sudah menciptaan banyak
+  chip processor untuk perangkat mobile, desktop, hingga server.
+
+
+  Untuk Anda yang hendak membeli Laptop atau merakit PC dengan processor Intel,
+  tidak ada salahnya jika Anda mengetahui terlebih dahulu processor apa saja
+  yang telah Intel ciptakan.
+
+
+  Pada artikel ini, saya mengajak Anda untuk mengetahui </summary>
+															<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4513907968964990898'/>
+															<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/4513907968964990898'/>
+															<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/07/urutan-processor-intel.html' title='Urutan Processor Intel : 1971 - 2022'/>
+															<author>
+																<name>Kurnia</name>
+																<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																<email>noreply@blogger.com</email>
+																<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+															</author>
+															<media:thumbnail
+																xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkHnMnBQuuDs50fJQxVIG0Nq9xfOh1ajAq9oq5Xj8rdo2H9Z9MIVtUMDpUHF6KxVOfJ0aAUhHd8SWyLNG7MCSKt9zXggG-ykVBGQTwJOCrVgdp0xNZYi3SdIhRzaOs7YqgoeJR1rGufkgxI-5YOjfhdCJ2Sd9JgEgc8Pti2DbqvGPN_2oF_mxnom3pog/s72-c/Urutan-Processor-Intel%20(1).webp" height="72" width="72"/>
+															</entry>
+															<entry>
+																<id>tag:blogger.com,1999:blog-6624494226418167986.post-2403428552243215168</id>
+																<published>2022-06-24T03:22:00.061+07:00</published>
+																<updated>2022-11-05T09:00:00.407+07:00</updated>
+																<category scheme="http://www.blogger.com/atom/ns#" term="Komputer"/>
+																<category scheme="http://www.blogger.com/atom/ns#" term="Perangkat Keras"/>
+																<title type='text'>Bahaya PSU Abal-Abal : PC Rusak Hingga Terbakar </title>
+																<summary type="text">
+  
+
+Memilih PSU (Power Supply Unit) untuk PC
+  idamanmu adalah hal serius yang tidak boleh dilakukan dengan
+  sembarangan. Memilih PSU abal-abal karena harganya murah adalah kesalahan
+    besar. Karena dengan memilih PSU abal-abal sama saja kamu memilih menanggung
+  semua resikonya.
+
+
+
+  Perlu kamu pertimbangkan lagi ketika hendak membeli PSU murah demi menekan
+  budget. Bukan untung karena </summary>
+																<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/2403428552243215168'/>
+																<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/2403428552243215168'/>
+																<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/06/bahaya-psu-abal-abal.html' title='Bahaya PSU Abal-Abal : PC Rusak Hingga Terbakar '/>
+																<author>
+																	<name>Kurnia</name>
+																	<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																	<email>noreply@blogger.com</email>
+																	<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																</author>
+																<media:thumbnail
+																	xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnJDFAaIDRfebX0ntwgilfqI_fVSIOCCmrlZyZqfQRJNAwuSrR2Ha5j5TDbQl_wttvHrqwjcZGaB-NIBtMfLw8_RDDNUXyiL6AQs0wpU1g-CNGRe4NxXY3Q_50ANZ_ZXfJH34drvpJZI7gJId2wJ4X7P9FnYlrM0DyfTLEhjJ6QMsPKlgB1wty8NG-uA/s72-c/Bahaya-Psu-abal-abal.jpg" height="72" width="72"/>
+																	<georss:featurename>Indonesia</georss:featurename>
+																	<georss:point>-0.789275 113.921327</georss:point>
+																	<georss:box>-57.750893002997188 43.608827000000005 56.172343002997181 -175.76617299999998</georss:box>
+																</entry>
+																<entry>
+																	<id>tag:blogger.com,1999:blog-6624494226418167986.post-6430703163524552366</id>
+																	<published>2022-06-21T03:48:00.020+07:00</published>
+																	<updated>2022-11-14T16:20:42.151+07:00</updated>
+																	<category scheme="http://www.blogger.com/atom/ns#" term="Komputer"/>
+																	<category scheme="http://www.blogger.com/atom/ns#" term="Perangkat Keras"/>
+																	<title type='text'>LGA 1155 Processor List : Find the best Processor here!</title>
+																	<summary type="text">
+
+  
+
+
+
+  LGA 1155 Processor List - For those of you who want to assemble
+    a Low-Budge PC, this article contains a list of Processors for Intel LGA
+    1155 socket. In the table below, the main specifications of each Processor
+    are provided,. Thoose are Core and Thread, Frequency, processor graphics,
+    TDP and also compatible RAM types.
+
+
+  Untuk kamu yang mau merakit PC Low-Budge, </summary>
+																	<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6430703163524552366'/>
+																	<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/6430703163524552366'/>
+																	<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/06/lga-1155-processor-list.html' title='LGA 1155 Processor List : Find the best Processor here!'/>
+																	<author>
+																		<name>Kurnia</name>
+																		<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																		<email>noreply@blogger.com</email>
+																		<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																	</author>
+																	<media:thumbnail
+																		xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCm9bHT-2l5TFujIOzgfYADHjNDWs_OMDIFjvoL-pERX37pOplB7L2azgtpyeoUxFFgsuZn4UsB21t2MOfBU01t_lJrx6qmrxDb3zkC5CAIzEeR40ckvBvqKqa-hxueuTcevdNDIrG-vqoyBJcJcT_V2nc1rhyBGPdll6DYe5Jy9o99TAZRnIPcfhXNg/s72-c/lga1155%20processor%20list.jpg" height="72" width="72"/>
+																	</entry>
+																	<entry>
+																		<id>tag:blogger.com,1999:blog-6624494226418167986.post-1682420316531593308</id>
+																		<published>2022-06-19T03:21:00.156+07:00</published>
+																		<updated>2022-11-14T13:36:33.546+07:00</updated>
+																		<category scheme="http://www.blogger.com/atom/ns#" term="Tutorial Blog"/>
+																		<title type='text'>[Satu Script untuk semua] Script Anti Copas, Klik Kanan, DLL</title>
+																		<summary type="text">
+  
+
+
+
+  Anda seorang blogger dan merasa kesal saat menemukan artikel blog Anda dicopas
+  orang lain? Jika begitu, maka Anda tidaklah sendirian. Saya juga
+  demikian. 
+
+
+  Untuk mengatasi artikel blog dicopas orang lain tanpa izin kita bisa memasang
+  script untuk memblokir akses copy. Di artikel ini One Tekno akan memberikan
+  sebuah script yang bisa menangani masalah artikel blog dicopas.
+
+
+</summary>
+																		<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1682420316531593308'/>
+																		<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1682420316531593308'/>
+																		<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/06/script-anti-copy-paste.html' title='[Satu Script untuk semua] Script Anti Copas, Klik Kanan, DLL'/>
+																		<author>
+																			<name>Kurnia</name>
+																			<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																			<email>noreply@blogger.com</email>
+																			<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																		</author>
+																		<media:thumbnail
+																			xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpMBE6m_hD5xq_sfMKEed-tIf9D4Nl_w9HbIgbfCqnvCt31gkVR_21C458rD7yIj6iH1yPS0kho_kkQ_m2DGECqGbcIzZme-1rA97k_6pH9lGFVbpaP46Rza9l-n3ON-uFXop-Q72MSlVdAnDu-gxvGPwbc8NgT_fTnIru4JI-OgiYnpk5YBdqNuP2tw/s72-c/script%20anti%20copas%20%281%29.webp" height="72" width="72"/>
+																		</entry>
+																		<entry>
+																			<id>tag:blogger.com,1999:blog-6624494226418167986.post-1618258392016521802</id>
+																			<published>2022-06-14T15:43:00.038+07:00</published>
+																			<updated>2022-11-14T13:57:30.874+07:00</updated>
+																			<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+																			<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+																			<title type='text'>Program C++ Menghitung Luas Lingkaran dan Kelilingnya</title>
+																			<summary type="text">
+  
+
+
+
+
+  Halo! Kamu saat ini berada di seri Contoh Program C++ One Tekno.
+  Artikel ini akan menyajikan
+  Kode Program C++ Menghitung Luas Lingkaran dan Keliling Lingkaran sebagai bahan
+  belajar dan referensi tugas. 
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+Pendahuluan
+Menghitung luas lingkaran dan kelilingnya sudah kita pelajari di Sekolah Dasar.
+  Masih ingat dengan </summary>
+																			<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1618258392016521802'/>
+																			<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/1618258392016521802'/>
+																			<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/09/program-cpp-menghitung-luas-lingkaran.html' title='Program C++ Menghitung Luas Lingkaran dan Kelilingnya'/>
+																			<author>
+																				<name>Kurnia</name>
+																				<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																				<email>noreply@blogger.com</email>
+																				<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																			</author>
+																			<media:thumbnail
+																				xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNbZXFQC0RTbrcM5V3LNq0rJEq2c_wuprZxMDkttWb2-qEg55vBomcx7aD7S4Q37Kx_gYiX-JLSpJi8wGiLNWxzWsc59D5qNurIYUNN_ge5RpIvY5kXw2EoazkiQV41jSjmk6sPuVntETNobLDHLFH-WtzvOoFfEoOHo5P_u7vAkkahPEVcaBLYlofw/s72-c/Program-CPP-Menghitung-Luas-dan-Keliling-Lingkaran.jpg" height="72" width="72"/>
+																				<georss:featurename>Indonesia</georss:featurename>
+																				<georss:point>-0.789275 113.921327</georss:point>
+																				<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+																			</entry>
+																			<entry>
+																				<id>tag:blogger.com,1999:blog-6624494226418167986.post-2942744319562437452</id>
+																				<published>2022-06-11T13:29:00.359+07:00</published>
+																				<updated>2022-11-14T17:03:46.705+07:00</updated>
+																				<category scheme="http://www.blogger.com/atom/ns#" term="Pemrograman"/>
+																				<category scheme="http://www.blogger.com/atom/ns#" term="Program CPP"/>
+																				<title type='text'>Program C++ Deret Fibonacci dengan Looping dan Rekursif</title>
+																				<summary type="text">
+
+
+
+  Program C++ Deret Fibonacci - Deret fibonacci adalah deretan angka yang
+  disusun dari penjumlahan dua angka sebelumnya. Pada artikel ini, kita akan
+  belajar membuat program C++ untuk membuat deret fibonacci. 
+
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Pendahuluan
+
+  Deret Fibonacci tersusun dari penjumlahan dua angka sebelumnya. Perhatikan
+  susunan angka di bawah. 
+</summary>
+																				<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/2942744319562437452'/>
+																				<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/2942744319562437452'/>
+																				<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/06/program-cpp-deret-fibonacci.html' title='Program C++ Deret Fibonacci dengan Looping dan Rekursif'/>
+																				<author>
+																					<name>Kurnia</name>
+																					<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																					<email>noreply@blogger.com</email>
+																					<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																				</author>
+																				<media:thumbnail
+																					xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHka0sHQZnk3qmfOU0fCXm1XvuvOfQPmKKvVERB36KdXEKZooH8EWrJWtrQ_BvpaU2t59-C4Qtk_6EYhxonA7VntZYWCfE48mhyCGne1NHpLIFNbDjCX6Q2NqRFIWpp2SUyPtkWzCuyNLDVKn6BFalNg7EeSJbdsm4M85LvaOXg6M98_FMyjW1Js530w/s72-c/program%20C++%20deret%20Fibonacci.jpg" height="72" width="72"/>
+																					<georss:featurename>Indonesia</georss:featurename>
+																					<georss:point>-0.789275 113.921327</georss:point>
+																					<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+																				</entry>
+																				<entry>
+																					<id>tag:blogger.com,1999:blog-6624494226418167986.post-7921722909240827659</id>
+																					<published>2022-05-01T22:09:00.003+07:00</published>
+																					<updated>2022-11-13T14:04:10.439+07:00</updated>
+																					<title type='text'>Halaman Download File System Flashdisk OPL</title>
+																					<summary type="text">&lt;!--https://drive.google.com/uc?export=download&amp;id=1HRg5Fu8aTGgwyKHz-cy2F5S-JqC_ZCoZ--&gt;
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+Download System PS2  
+
+&lt;!-- HTML !--&gt;
+
+
+
+.button-6 {
+  
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  </summary>
+																					<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/7921722909240827659'/>
+																					<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/7921722909240827659'/>
+																					<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/08/halaman-download-file-system-flashdisk.html' title='Halaman Download File System Flashdisk OPL'/>
+																					<author>
+																						<name>Kurnia</name>
+																						<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																						<email>noreply@blogger.com</email>
+																						<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																					</author>
+																				</entry>
+																				<entry>
+																					<id>tag:blogger.com,1999:blog-6624494226418167986.post-5787311080241976197</id>
+																					<published>2022-04-22T08:10:00.004+07:00</published>
+																					<updated>2022-11-01T00:17:02.890+07:00</updated>
+																					<category scheme="http://www.blogger.com/atom/ns#" term="How?"/>
+																					<category scheme="http://www.blogger.com/atom/ns#" term="Internet"/>
+																					<category scheme="http://www.blogger.com/atom/ns#" term="Komputer"/>
+																					<title type='text'>Cara Nonaktifkan Safe Browsing Google Chrome</title>
+																					<summary type="text">Menonaktifkan Save Browsing Chrome - Fitur save browsing di Internet
+  sebetulnya sangat penting karena ada banyak halaman yang menggunakan phishing
+  dan teknik rekayasa sosial untuk mengelabui pengguna agar memberikan informasi
+  pribadi mereka, mengunduh
+  PUPs (potentially unwanted programs), dan malware. Banyak pula ditemui berbagai penipuan seperti pembaruan
+  perangkat lunak palsu, hadiah,</summary>
+																					<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/5787311080241976197'/>
+																					<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/5787311080241976197'/>
+																					<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/04/cara-nonaktifkan-safe-browsing-chrome.html' title='Cara Nonaktifkan Safe Browsing Google Chrome'/>
+																					<author>
+																						<name>Kurnia</name>
+																						<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																						<email>noreply@blogger.com</email>
+																						<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																					</author>
+																					<georss:featurename>Indonesia</georss:featurename>
+																					<georss:point>-0.789275 113.921327</georss:point>
+																					<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+																				</entry>
+																				<entry>
+																					<id>tag:blogger.com,1999:blog-6624494226418167986.post-982557403258253731</id>
+																					<published>2022-03-06T22:05:00.010+07:00</published>
+																					<updated>2022-11-07T16:07:46.295+07:00</updated>
+																					<category scheme="http://www.blogger.com/atom/ns#" term="Tutorial Blog"/>
+																					<title type='text'>Cara Mengatasi : &#39;noindex&#39; detected in &#39;robots&#39; meta tag Blogger</title>
+																					<summary type="text">
+  Mengatasi &#39;noindex&#39; detected in &#39;robots&#39; meta tag Blogger - Jika Anda
+  menggunakan template blog gratisan, maka kemungkinan besar Anda akan mengalami
+  masalah &#39;noindex&#39; detected in robots meta tag pada saat meminta
+  Pengindeksan di Google Search Console.  
+
+
+  Tapi tak perlu risau, Anda tidak harus beralih ke themplate premium jika
+  memang belum bisa membelinya. Anda hanya perlu mengikuti </summary>
+																					<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/982557403258253731'/>
+																					<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/982557403258253731'/>
+																					<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/03/noindex-detected-in-robots-meta-tag.html' title='Cara Mengatasi : &#39;noindex&#39; detected in &#39;robots&#39; meta tag Blogger'/>
+																					<author>
+																						<name>Kurnia</name>
+																						<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																						<email>noreply@blogger.com</email>
+																						<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																					</author>
+																					<media:thumbnail
+																						xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/OF-izRIj2eY/default.jpg" height="72" width="72"/>
+																						<georss:featurename>Indonesia</georss:featurename>
+																						<georss:point>-0.789275 113.921327</georss:point>
+																						<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+																					</entry>
+																					<entry>
+																						<id>tag:blogger.com,1999:blog-6624494226418167986.post-3954141463235339309</id>
+																						<published>2022-01-25T16:52:00.011+07:00</published>
+																						<updated>2022-11-07T16:11:01.346+07:00</updated>
+																						<category scheme="http://www.blogger.com/atom/ns#" term="How?"/>
+																						<category scheme="http://www.blogger.com/atom/ns#" term="Instagram"/>
+																						<title type='text'>Cara Mengembalikan Postingan Instagram yang Terhapus</title>
+																						<summary type="text">
+
+
+
+  Kamu tidak sengaja menghapus Postingan Instagram, Reels, Story, atau Video IG
+  TV? Atau berubah pikiran setelah menghapusnya dan ingin mengembalikannya lagi?
+  Tenang, artikel ini akan memberikan tutorial bagaimana
+  cara mengembalikan postingan Instagram yang sudah terhapus. Yuk masuk
+  ke pembahasannya!
+
+
+
+
+  Bisakah Mengembalikan Postingan Instagram yang Terhapus?
+
+
+  Bisa. Dengan fitur</summary>
+																						<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/3954141463235339309'/>
+																						<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/3954141463235339309'/>
+																						<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/01/mengembalikan-postingan-ig-yang-terhapus.html' title='Cara Mengembalikan Postingan Instagram yang Terhapus'/>
+																						<author>
+																							<name>Kurnia</name>
+																							<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																							<email>noreply@blogger.com</email>
+																							<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																						</author>
+																						<media:thumbnail
+																							xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/a/AVvXsEi5WgZ0Sdbs1o44UROsgUAUwpulimZ73_mD9fIbuCbTeTjziI50nnsOddI27Xkdboc3tPgTpiBKb-dcvyYhRlkDxUVbqTgtBkXWNDBz7ZT0CgqKfY_2jTfkgehpXQRL3DYbv9v5MuLPsdOAUgN7lUCNs4o_khT7BKB9l2wTqup3kT0XeGqj0j1akQVZIg=s72-c" height="72" width="72"/>
+																							<georss:featurename>Indonesia</georss:featurename>
+																							<georss:point>-0.789275 113.921327</georss:point>
+																							<georss:box>-29.099508836178845 78.765077 27.520958836178846 149.07757700000002</georss:box>
+																						</entry>
+																						<entry>
+																							<id>tag:blogger.com,1999:blog-6624494226418167986.post-7624022673950587474</id>
+																							<published>2022-01-16T10:30:00.011+07:00</published>
+																							<updated>2022-11-14T14:12:24.940+07:00</updated>
+																							<category scheme="http://www.blogger.com/atom/ns#" term="AdSense"/>
+																							<category scheme="http://www.blogger.com/atom/ns#" term="Tutorial Blog"/>
+																							<title type='text'> Cara Terbaru Atasi Error Ads.txt di Blogger, Dijamin Berhasil!</title>
+																							<summary type="text">
+  
+
+
+
+
+
+  Apakah Anda mendapatkan peringatan seperti ini
+  &quot;Earnings at risk - You need to fix some ads.txt file issues to avoid
+      severe impact to your revenue.&quot;
+  di Beranda Google Adsense? Jika iya, Anda harus segera memecahkan masalah
+  tersebut. Jika tidak, itu bisa berdampak pada penghasilan Adsense Anda. 
+
+
+  Jika Anda baru saja bergabung dengan Program Adsense, Anda pasti tidak
+  </summary>
+																							<link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/7624022673950587474'/>
+																							<link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/6624494226418167986/posts/default/7624022673950587474'/>
+																							<link rel='alternate' type='text/html' href='https://www.onetekno.my.id/2022/01/mengatasi-error-ads-txt-adsense.html' title=' Cara Terbaru Atasi Error Ads.txt di Blogger, Dijamin Berhasil!'/>
+																							<author>
+																								<name>Kurnia</name>
+																								<uri>http://www.blogger.com/profile/02061406799796933540</uri>
+																								<email>noreply@blogger.com</email>
+																								<gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqlAA9QfTqEfEKJP3H-QvNLt-4NRJ1uL2jBnEud1xNAdTk2i4d9QKVLO1R2RfjFWP3wAH07m0JOUPTjOmpdGcfEH7z0u64fsGr_bmi3pEqm1-fqTh7OobGG4TTm0qYhkEnqcum3U31ZgC_pcZo6PhgUPYc_kX1nxVZC7WrfsIa2ZtMb4/s220/kurnia-pp.jpg'/>
+																							</author>
+																							<media:thumbnail
+																								xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfBm_7u0GvQG9UeizeAP770CfNYVWULJ-DDAa-MYBM-mO3D3AAkbB-cjDTiyg2qd86Z6iCcZ1W0bpC6YVF2TKJkmhM_PiAHk_YuRchl27f4eMAEnHp0vES_ayq86eTk6SqRKuzDfeIm4X-YaA_6IjwAPsCCaWJwgnPpMb1iNzE5p0ocDteuVNi1httLA/s72-c/Mengatasi-error-ads.txt-earning-at-risk%20%281%29.webp" height="72" width="72"/>
+																							</entry>
+																						</feed>
