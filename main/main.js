@@ -86,9 +86,9 @@ function loadArticle(feed) {
 	while (i < j && i < posts.length) {
 		const post = posts[i]
 		const title = post.querySelector('title').innerHTML
-		const summary = post.querySelector('summary').innerHTML
-		const pub = post.querySelector('published').innerHTML
-		const updated = post.querySelector('updated').innerHTML
+		const summary = post.querySelector('summary').innerHTML.substring(0, snippetCharCount)
+		const pub = formatDate(post.querySelector('published').innerHTML)
+		const updated = formatDate(post.querySelector('updated').innerHTML)
 		const category = post.querySelector('category') 
 			? post.querySelector('category').getAttribute('term')
 			: '/'
@@ -106,31 +106,33 @@ function loadArticle(feed) {
 
 		const article = document.createElement('article')
 		article.innerHTML = `
-			<div>
-				<div>
+			<div class='post-title-wrapper'>
+				<div class="post-title-container">
 					<h3 class="post-title">${title}</h3>
-					<div>
+					<div class='post-meta'>
 						<a href="${authorIMG}" class="author-img">
 							<img src="${authorIMG}" alt="${author}'s Profile Picture"/>
-						</a> by 
-						<a href="${authorURI}" class="author" title="${author}">${author}</a> 
-						- Updated
-						<span class="date">${updated}</span>
+						</a> 
+						<span>by 
+							<a href="${authorURI}" class="author" title="${author}">${author}</a>
+						</span>
+						<span>-</span>
+						<span>Updated <span class="date">${updated}</span></span>
 					</div>
 				</div>
-				<span class="icon share">Share</span>
+				<a class="share" style="background: url(src/share.svg)"></a>
 			</div>
 			<img src="${thumbnail}" alt="${title}" class="thumbnail" />
-			<div>in <span class="post-label">${category}</span></div>
-			<p class="post-snippet">${summary}</p>
+			<div>in <a class="post-label" href="/search/label/${category}" title="Show all article in ${category}">${category}</a></div>
+			<p class="post-snippet">${summary}....</p>
 
 			<div class="post-button-container">
-				<div class="comment-count">
-					<span>143</span>
+				<div class="comment-count-wrapper">
+					<span class="comment-count">143</span>
 					Comments
 				</div>
-				<button type="button" class="secondary-button">${joinDiscussionMessage}</button>
-				<button type="button" class="main-button" onclick="location.href = '${url}' ">${continueReading}</button>
+				<a class="button secondary-button" href="${url}#comments">${joinDiscussionMessage}</a>
+				<a class="button main-button" href="${url}">${continueReading}</a>
 			</div>
 		`
 
@@ -139,3 +141,18 @@ function loadArticle(feed) {
 		loadedPost++
 	}
 }
+
+/**
+ * Formats a date string into the format "Jun 28, 2023".
+ *
+ * @param {string} dateString - The date string to be formatted.
+ * @returns {string} The formatted date string.
+ */
+function formatDate(dateString) {
+	const date = new Date(dateString);
+  
+	const options = { month: 'short', day: 'numeric', year: 'numeric' };
+	const formattedDate = date.toLocaleDateString('en-US', options);
+  
+	return formattedDate;
+  }
