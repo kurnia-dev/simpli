@@ -57,7 +57,7 @@ main.prepend(hero, articleWrapper);
 
 // Load Article
 const loadMore = document.querySelector('#load-older-post')
-const feedURL = '/feed.xml';
+const feedURL = 'feed.xml';
 let posts; 
 let loadedPost = 0; 
 
